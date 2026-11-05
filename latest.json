@@ -1,0 +1,7 @@
+{
+  "build": 27,
+  "notes": "v3.1: 스윙 순간 사진을 눌러 크게 보기, 한 장씩 넘겨 정확한 순간 찾기",
+  "bundle": "https://raw.githubusercontent.com/Terry7804/golf-coach-app-release/main/bundle.zip?b=27",
+  "apk": "https://raw.githubusercontent.com/Terry7804/golf-coach-app-release/main/golf-coach.apk?b=27",
+  "checksum": "b21d5ba3ba5c4e0e3516f1d26b65597e84a58a19aecc7aa161dd1b7eabb4a340"
+}
